@@ -1,2 +1,2 @@
 # python-projects
-Some small projects that I made when I first started learning Python. Need to update.
+Just some small projects that I've worked on or just simple practice files that I've made to better understand some topics.
